@@ -1,0 +1,79 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "nrk", "name": "NRK" },
+      "author": "NRK",
+      "title": "De siste sportsnyhetene fra NRK",
+      "description": "Her får du de siste sportsnyhetene fra NRK.",
+      "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16017160.1.16017160",
+      "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+      "publishedAt": "2022-06-25T17:07:32.9716179Z",
+      "content": "25. juni2022kl.16:46Eivind Henriksen kastet 80,17 meter og vant sleggekonkurransen under friidretts-NM i Stjørdal. Det plasserer ham på femteplass på årets verdensstatistikk.\r\nJeg tror konkurrentene … [+828 chars]"
+    },
+    {
+      "source": { "id": "nrk", "name": "NRK" },
+      "author": "NRK",
+      "title": "De siste sportsnyhetene fra NRK",
+      "description": "Her får du de siste sportsnyhetene fra NRK.",
+      "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16016676.1.16016676",
+      "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+      "publishedAt": "2022-06-25T09:07:21.0824899Z",
+      "content": "24. juni2022kl.18:49Line Kloster er best kjend som 400 meter hekk-løpar, men under NM i Stjørdal vann ho 100 meteren på sterke 11,40. Ho senka dermed persen sin med 29 hundredeler, og leverte den nes… [+515 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "USFL Playoffs odds: How pros are betting the big games",
+      "description": "The USFL playoffs start this weekend. FOX Sports betting analyst Sam Panayotovich helps break down how the pros are betting the games.",
+      "url": "http://www.foxsports.com/stories/usfl/usfl-playoffs-odds-how-pros-are-betting-the-big-games",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/1408/814/6.22.22_USFL-piece-by-sammy_16x9-1.jpg?ve=1&tl=1",
+      "publishedAt": "2022-06-23T23:26:42Z",
+      "content": "By Sam Panayotovich\r\nFOX Sports Betting Analyst\r\nThe USFL semifinals get underway this Saturday at Tom Benson Hall of Fame Stadium in Canton, Ohio, and boy are we in for a pair of doozies.\r\nFirst up,… [+3673 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "⭐ &#x27;The Champions&#x27; Season Finale ⭐",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/244201-the-champions-season-6-episode-3",
+      "urlToImage": null,
+      "publishedAt": "2022-06-15T17:37:27.3831502Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "Live Bradley Beal Interview ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/244886-taylor-rooks-x-bradley-beal",
+      "urlToImage": null,
+      "publishedAt": "2022-06-15T17:22:35.1827416Z",
+      "content": null
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Daily Briefing",
+      "description": "The day's top stories, from sports to movies to politics to world events.",
+      "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+      "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+      "publishedAt": "2021-08-15T15:35:07+00:00",
+      "content": "The day's top stories, from sports to movies to politics to world events."
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times http://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2021-02-10T03:52:37.2719772Z",
+      "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+    }
+  ]
+}

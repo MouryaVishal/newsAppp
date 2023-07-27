@@ -1,0 +1,108 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.hoverEff {
+  background: none;
+  color:#262525;
+  border: white 2px solid;
+  padding: 1em 2em;
+  font-size: 1em;
+  transition: color 0.25s, border-color 0.25s, box-shadow 0.25s,transform 0.25s;
+}
+
+.hoverEff:hover {
+  border-width: 0px 2px 2px 2px;
+  border: solid #ebe351 ;
+  border-top: none;
+  border-top-color: none;
+  color: rgb(219, 85, 85);
+  box-shadow: 10px 5px 5px  rgb(68, 232, 224);
+  /* box-shadow: 0 0.5em 0.5em -0.4em #102156; */
+  transform: translateY(-0.25em);
+  cursor: pointer;
+}
+
+
+@media screen and (min-width: 1427px) {
+  .imgSize {height:230px;
+    width:413px
+  }
+  .cardHeight{
+    height: 240px;
+  }
+}
+
+.btnHover:hover{
+  background-color: #262525;
+  color: white;
+}
+
+
+.loader{
+  /* background: #e7e2e2; */
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  height: 50px;
+  margin: 50px auto;
+  width: 200px;
+}
+
+.loader div{
+  height: 20px;
+  width: 100%;
+  margin: 0 2px;
+  background: purple;
+  text-align: center;
+  text-transform: uppercase;
+  color: #220a1c;
+  animation: .5s infinite jumpy;
+}
+.loader div:nth-child(even){
+  animation-delay: .1s;
+}
+
+@keyframes jumpy {
+  50% {
+    height: 50px;
+    background: violet;
+  }
+}
+
+
